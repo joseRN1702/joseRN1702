@@ -1,0 +1,77 @@
+
+# Olá meu nome é José  
+
+Estou cursando Ánalise e desenvolvimento de sistemas (ADS) e procuro me desnvolver cada vez mais na área aprendendo diversas tecnlogias e adquirindo conhecimento. 
+No momento não tenho nenhuma experiencia de estagio e ainda não teabalho na área 
+
+## principais tecnologias que tenho tido contato na faculdade
+Python,java,Rust,MySQL,Trello,Jira e Figma
+
+### Um sonho que eu tenho
+(futuramente quero aprender a desenvolver jogos,como um hobbie e dependendo até trabalhar com isso, eu pequisei um pouquinho e vou precisar aprender alguma dessas linguagens: C,C++,C# e Blueprint
+Além de aprender a mexer nas engines de games como:Unreal,Unity,Godot )
+
+//--TECNOLOGIAS EM DESENVOLVIMENTO E APRENDIZADO--//
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)>
+
+
+//--Linguagens de Marcação e Estilo--//
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
+
+//-- Bibliotecas e Framework--//
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+
+
+
+
+//--Banco de dados--//
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+//-- Sistema Operacional--//
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+//--Ferramentas--//
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+ // REDES SOCIAIS
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-rodrigues-688b79181/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juuuhh_jr/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joseRN1702)
+## 🛠 Habilidades
+ Principais tecnologias que tenho tido contato na faculdade
+Python,java,Rust,MySQL,Trello,Jira e Figma
+
+
+Python,java,Rust,MySQL,Trello,Jira,HTML e Figma
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-rodrigues-688b79181/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/UuuhhJuuu)
+
+
+## Melhorias
+
+N/A
+
+## Contribuindo
+
+Estou contribuindo com o meu READEME.md
+Contribuições são sempre bem-vindas!
+
+Veja `contribuindo.md` para saber como começar.
+
+Por favor, siga o `código de conduta` desse projeto.
+
+
+## Referência
+
+ Aba community do projeto open source Digital inovation one 
