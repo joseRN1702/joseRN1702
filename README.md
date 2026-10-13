@@ -1,8 +1,8 @@
 
 # Olá meu nome é José  
 
-Estou cursando Ánalise e desenvolvimento de sistemas (ADS) e procuro me desnvolver cada vez mais na área aprendendo diversas tecnlogias e adquirindo conhecimento. 
-No momento não tenho nenhuma experiencia de estagio e ainda não teabalho na área 
+Estou cursando Ánalise e desenvolvimento de sistemas (ADS) e procuro me desenvolver cada vez mais na área aprendendo diversas tecnologias e adquirindo conhecimento. 
+No momento não tenho nenhuma experiencia de estagio e ainda não trabalho na área 
 
 ## principais tecnologias que tenho tido contato na faculdade
 Python,java,Rust,MySQL,Trello,Jira e Figma
@@ -64,7 +64,7 @@ N/A
 
 ## Contribuindo
 
-Estou contribuindo com o meu READEME.md
+Estou contribuindo com o meu README.md
 Contribuições são sempre bem-vindas!
 
 Veja `contribuindo.md` para saber como começar.
